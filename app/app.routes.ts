@@ -4,5 +4,5 @@ import {FirstPage} from './firstPage';
 
 export const routes: Routes = [
 	{path: '', component: FirstPage},
-	{path: 'giftslides', component: SecondPage}
-	]
+	{path: 'secondPage', component: SecondPage}
+	];
