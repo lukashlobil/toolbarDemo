@@ -1,0 +1,12 @@
+.idea
+
+node_modules/
+tmp/
+typings/
+plugins/
+
+#native
+hooks
+platforms
+**/*.js
+*.d.ts
